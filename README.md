@@ -13,11 +13,11 @@
 
 Here are some of the technologies I work with:
 
-[![Tech Stack](https://skillicons.dev/icons?i=ts,cs,py,react,nextjs,tailwind,bootstrap,dotnet,mysql,postgres,sqlite,mssql,git)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=ts,cs,py,react,nextjs,tailwind,bootstrap,dotnet,mysql,postgres,git)](https://skillicons.dev)
 
 - **Written/Spoken Languages**: Spanish (Native), English (B2)
 - **Programming Languages**: C#, Python, Typescript
-- **Web Frameworks/Libraries: React, ASP.Net, Bootstrap, TailwindCSS
+- **Web Frameworks/Libraries**: React, ASP.Net, Bootstrap, TailwindCSS
 - **Databases**: MySQL, SQL Server, PostgreSQL, SQLite
 - **Development Tools**: Git, GitHub, Bitbucket, Postman, Jira, Selenium, BeautifulSoup
 - **Others**: Virtual Box, Ubuntu, Agile/Scrum, Slack
