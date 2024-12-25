@@ -13,7 +13,7 @@
 
 Here are some of the technologies I work with:
 
-[![Tech Stack](https://skillicons.dev/icons?i=ts,cs,py,react,nextjs,tailwind,bootstrap,dotnet,mysql,postgres,git)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=ts,cs,py,react,bootstrap,dotnet,mysql,git)](https://skillicons.dev)
 
 - **Written/Spoken Languages**: Spanish (Native), English (B2)
 - **Programming Languages**: C#, Python, Typescript
