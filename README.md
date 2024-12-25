@@ -17,7 +17,7 @@ Here are some of the technologies I work with:
 
 - **Written/Spoken Languages**: Spanish (Native), English (B2)
 - **Programming Languages**: C#, Python, Typescript
-- **Web Frameworks/Libraries**: React, ASP.Net, Flask, Next.js
+- **Web Frameworks/Libraries**: React, ASP.Net, Flask
 - **Databases**: MySQL, SQL Server, SQLite
 - **Development Tools**: Git, GitHub, Vs Code, PyCharm
 
