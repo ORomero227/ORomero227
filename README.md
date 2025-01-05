@@ -13,12 +13,11 @@
 
 Here are some of the technologies I work with:
 
-[![Tech Stack](https://skillicons.dev/icons?i=ts,cs,py,react,bootstrap,dotnet,mysql,git)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=ts,cs,py,dotnet,mysql,git)](https://skillicons.dev)
 
 - **Written/Spoken Languages**: Spanish (Native), English (B2)
 - **Programming Languages**: C#, Python, Typescript
-- **Web Frameworks/Libraries**: React, ASP.Net, Flask
-- **Databases**: MySQL, SQL Server, SQLite
+- **Databases**: MySQL, SQL Server
 - **Development Tools**: Git, GitHub, Vs Code, PyCharm
 
 ## 📫 How to Reach Me
