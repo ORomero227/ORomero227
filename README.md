@@ -13,10 +13,10 @@
 
 Here are some of the technologies I work with:
 
-[![Tech Stack](https://skillicons.dev/icons?i=ts,cs,py,dotnet,mysql,git)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=cs,py,kotlin,dotnet,mysql,git)](https://skillicons.dev)
 
 - **Written/Spoken Languages**: Spanish (Native), English (B2)
-- **Programming Languages**: C#, Python, Typescript
+- **Programming Languages**: C#, Python, Kotlin
 - **Databases**: MySQL, SQL Server
 - **Development Tools**: Git, GitHub, Vs Code, PyCharm
 
