@@ -9,22 +9,17 @@
 - 💡 Always learning and exploring new tools to improve coding skills.
 - 🚀 Passionate about building applications that make a difference.
 
-## 💻 Tech Stack
-
-Here are some of the technologies I work with:
-
-[![Tech Stack](https://skillicons.dev/icons?i=cs,py,kotlin,dotnet,mysql,git)](https://skillicons.dev)
+## Skills
 
 - **Written/Spoken Languages**: Spanish (Native), English (B2)
-- **Programming Languages**: C#, Python, Kotlin
-- **Databases**: MySQL, SQL Server
-- **Development Tools**: Git, GitHub, Vs Code, PyCharm
+- **Programming Languages**: Java, Python, Kotlin, TypeScript
+- **Databases**: MySQL, SQL Server, Firebase
+- **Development Tools**: Git, GitHub
 
 ## 📫 How to Reach Me
 
 - 📧 Email: [oromero2812@outlook.com](mailto:oromero2812@outlook.com)
-- 🌐 Portfolio: [oromero-portfolio](https://oromero-portfolio.netlify.app/)
+- 🌐 Portfolio: [oromero-portfolio](https://oromerodev.netlify.app/)
 
----
-
+--
 Feel free to check out my repositories and let's connect! 💬
