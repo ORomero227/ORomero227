@@ -12,7 +12,7 @@
 ## Skills
 
 - **Written/Spoken Languages**: Spanish (Native), English (B2)
-- **Programming Languages**: Java, Python, Kotlin, TypeScript
+- **Programming Languages**: C#, PHP, Python, Kotlin, TypeScript
 - **Databases**: MySQL, SQL Server, Firebase
 - **Development Tools**: Git, GitHub
 
